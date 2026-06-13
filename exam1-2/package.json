@@ -1,0 +1,23 @@
+{
+  "name": "int151-practice-01-group1",
+  "version": "1.0.0",
+  "description": "- If the input is undefined, null, or not a string, the function should return an empty string `\"\"`.\r - If the input string is empty, return an empty string `\"\"`.\r - If multiple words share the longest length, return the first one that appears.\r - Count punctuation as part of the word (no cleaning required).",
+  "homepage": "https://github.com/umaporn-sup/INT151-Practice-01-Group1#readme",
+  "bugs": {
+    "url": "https://github.com/umaporn-sup/INT151-Practice-01-Group1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umaporn-sup/INT151-Practice-01-Group1.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "longestWord.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
